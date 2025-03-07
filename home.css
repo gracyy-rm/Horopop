@@ -1,0 +1,222 @@
+
+
+
+.hfont{
+    font-family: Cinzel Decorative;
+    font-size: 180px;
+    padding: 10px 20px;
+    padding-left: 180px;
+    z-index: 5;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+.hhfont{
+  font-family: Cinzel Decorative;
+  font-size: 80px;
+  padding: 10px 20px;
+  padding-left: 130px;
+  color: white;
+  position: relative;
+  text-align: center;
+}
+
+
+.bg{
+  height: 500px;
+ 
+  border: 3px;
+  background-size: 100% 100%;
+
+} 
+
+.line{
+  text-align: center;
+  position: relative;
+  font-size: larger;
+  font-family: Almendra Display;
+  color: whitesmoke;
+  font-size: 30px;
+  font-weight: bolder;
+  border: solid rgb(49, 49, 102);
+  background-color: rgb(49, 49, 102);
+  
+}
+.welcome{
+  font-size: x-large;
+  color: white;
+  padding-left: 100px;
+  font-family: Almendra;
+  font-size: 40px;
+  position: relative;
+  text-align: center;
+}
+
+.video{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.bgv{
+  height: 1000px;
+  background-color: rgb(49, 49, 102);
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
+
+
+.bt1{
+  font-size: xx-large;
+  background-color: rgb(183, 159, 100);
+  color: whitesmoke;
+  padding: 20px 50px;
+  border-radius: 18px;
+  cursor: pointer;
+  transition-duration: 0.6s;
+  position: relative;
+  border: 4px solid whitesmoke;
+  float: left;
+}
+.bt2{
+  font-size: xx-large;
+  background-color: rgb(183, 159, 100);
+  color: whitesmoke;
+  padding: 20px 50px;
+  border-radius: 18px;
+  cursor: pointer;
+  left: 15%;
+  position: relative;
+  transition-duration: 0.6s;
+  border: 4px solid whitesmoke;
+  align-items: center;
+
+}
+.bt3{
+  font-size: xx-large;
+  background-color: rgb(183, 159, 100);
+  color: whitesmoke;
+  padding: 20px 50px;
+  transition-duration: 0.6s;
+  border: 4px solid whitesmoke;
+  border-radius: 18px;
+  position: relative;
+  cursor: pointer;
+  float: right;
+}
+
+.bt1:hover {background-color: #e7e7e7;
+             color: black;}
+          
+
+.bt2:hover {background-color: #e7e7e7;
+  color: black; }
+
+.bt3:hover {background-color: #e7e7e7;
+  color: black;}
+
+.bar{
+  background-color: rgb(22, 14, 60);
+  position: relative;
+  color: white;
+
+}
+
+.bar ul{
+  overflow: auto;
+}
+
+.bar li{
+  float: right;
+  list-style: none;
+  margin: 20px 25px;
+}
+
+.bar li a{
+  padding: 3px 3px;
+  text-decoration: none;
+  color: white;
+  font-family: Almendra;
+  font-size: 20px;
+  
+  
+
+  
+  
+
+  
+}
+
+
+  .left{
+    display: inline-block;
+    position: absolute;
+    left: 60px;
+    top: 20px;
+  }
+  .left-img{
+    width: 45px;
+    height: auto;
+    line-height: 19px;
+    font-size: 26px;
+    text-align: center;
+    margin: 0px;
+    padding: 0%;
+    border-radius: 50%;
+  }
+  
+  .footer ul{
+    overflow: auto;
+    position: absolute;
+    background-color: rgb(22, 14, 60);
+   
+  }
+  
+  .footer li{
+    float: left;
+    list-style: none;
+    margin: 20px;
+    padding-bottom: 10em;
+    padding-left: 2px;
+    padding-right: 2px;
+    cursor: pointer;
+    
+  }
+  
+  .footer li a{
+    padding: 68px;
+    color: white;
+    font-family: Almendra;
+    font-size: 20px;
+  }
+
+
+.copyright{
+  color: white;
+  font-family: Almendra;
+  font-size: 18px;
+  position: relative;
+  text-align: center;
+  padding: 110px 100px;
+}
+
+.weekly{
+  background-image: url(back.jpeg);
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
